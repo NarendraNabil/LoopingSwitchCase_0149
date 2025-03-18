@@ -32,6 +32,4 @@ int main () {
     }while (x < 7);
     cout << "Nilai X terakhir : " << x << endl;
     cout << "Jumlah Perulangan Do While : " << perulanganDo << endl;
-    
-    
 }
